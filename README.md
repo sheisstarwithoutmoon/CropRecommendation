@@ -1,6 +1,4 @@
-# CropRecommendation
-
-# Crop_Reccomendation
+# CropReccomendation
 # Overview
 The dataset contains information related to soil composition and environmental factors in order to predict the suitable crop for a particular region.
 
